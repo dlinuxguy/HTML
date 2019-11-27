@@ -1,0 +1,23 @@
+
+
+.blockText {
+	display: block;
+  	background-color: #dddddd;
+  	border: solid 2px black;
+  	border-radius: 5px;
+  	padding: 10px;
+  	font-size: 20px;
+}  
+
+.rightText {
+	padding-right: 5px;
+	text-align: right;
+  	font-size: 20px;
+	color: white;
+}
+
+body {
+	background-color: #2f2b6b;
+	color: white;
+	font-size: 10px;
+}
